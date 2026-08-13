@@ -31,7 +31,7 @@ It is useful for keeping directories such as Downloads, Desktop, or project fold
 | Archives  | `.zip`, `.rar`, `.7z`                     |
 | Others    | Unsupported or unrecognized extensions    |
 
-## Technologies Used
+# Technologies Used
 
 * **Python 3**
 * `os` — directory and file operations
