@@ -8,7 +8,7 @@ The **Python File Organizer** scans a user-selected directory, identifies files 
 
 It is useful for keeping directories such as Downloads, Desktop, or project folders clean and organized.
 
-## Features
+# Features
 
 * Automatically organizes files by type
 * Supports images, documents, videos, music, Python files, and archives
