@@ -2,7 +2,7 @@
 
 A lightweight Python automation tool that organizes files into categorized directories based on their file extensions. The project is designed to simplify file management and demonstrate practical Python automation, file handling, and directory management.
 
-## Overview
+# Overview
 
 The **Python File Organizer** scans a user-selected directory, identifies files based on their extensions, creates appropriate category folders, and automatically moves the files into those folders.
 
