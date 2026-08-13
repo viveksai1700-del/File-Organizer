@@ -19,7 +19,7 @@ It is useful for keeping directories such as Downloads, Desktop, or project fold
 * Provides clear terminal-based progress and completion messages
 * Uses Python's built-in libraries with no external dependencies
 
-## Supported File Categories
+# Supported File Categories
 
 | Category  | File Types                                |
 | --------- | ----------------------------------------- |
