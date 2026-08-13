@@ -38,7 +38,7 @@ It is useful for keeping directories such as Downloads, Desktop, or project fold
 * `shutil` — moving files
 * `pathlib` / file path handling concepts
 
-## Project Structure
+# Project Structure
 
 ```text
 Python-File-Organizer/
