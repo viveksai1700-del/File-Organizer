@@ -159,10 +159,13 @@ This project demonstrates practical understanding of:
 
 This project is open-source and available for educational and personal use.
 
-## Author
+# Author
 
 **Sai Vivek**
 
 Computer Science & Engineering
 
 GitHub: [https://github.com/viveksai1700-del]
+
+## Latest Update
+Project documentation and repository structure updated.
