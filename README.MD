@@ -155,7 +155,7 @@ This project demonstrates practical understanding of:
 * Working with file extensions
 * Building reusable command-line utilities
 
-## License
+# License
 
 This project is open-source and available for educational and personal use.
 
