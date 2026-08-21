@@ -161,7 +161,7 @@ This project is open-source and available for educational and personal use.
 
 # Author
 
-**Sai Vivek**
+**Mittapally Sai Vivek**
 
 Computer Science & Engineering
 
