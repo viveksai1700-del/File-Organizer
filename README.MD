@@ -140,7 +140,7 @@ Potential enhancements include:
 * Undo functionality.
 * Recursive organization of files inside subdirectories.
 * Configurable file-extension mappings.
-* File organization statistics
+* File organization statistics.
 
 ## Learning Outcomes
 
