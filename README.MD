@@ -139,7 +139,7 @@ Potential enhancements include:
 * Detailed activity logs.
 * Undo functionality.
 * Recursive organization of files inside subdirectories.
-* Configurable file-extension mappings
+* Configurable file-extension mappings.
 * File organization statistics
 
 ## Learning Outcomes
