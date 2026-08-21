@@ -163,7 +163,7 @@ This project is open-source and available for educational and personal use.
 
 **Mittapally Sai Vivek**
 
-Computer Science & Engineering
+Computer Science & Engineering.
 
 GitHub: [https://github.com/viveksai1700-del]
 
