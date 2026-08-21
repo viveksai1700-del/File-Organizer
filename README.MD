@@ -136,9 +136,9 @@ Potential enhancements include:
 * Graphical User Interface (GUI).
 * Drag-and-drop folder selection.
 * Custom file categories.
-* Detailed activity logs
-* Undo functionality
-* Recursive organization of files inside subdirectories
+* Detailed activity logs.
+* Undo functionality.
+* Recursive organization of files inside subdirectories.
 * Configurable file-extension mappings
 * File organization statistics
 
