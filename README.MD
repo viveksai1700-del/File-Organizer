@@ -133,7 +133,7 @@ The application includes basic safeguards to:
 
 Potential enhancements include:
 
-* Graphical User Interface (GUI)
+* Graphical User Interface (GUI).
 * Drag-and-drop folder selection
 * Custom file categories
 * Detailed activity logs
