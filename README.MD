@@ -126,7 +126,7 @@ The application includes basic safeguards to:
 
 * Detect invalid directory paths.
 * Skip existing directories.
-* Prevent accidental file overwrites
+* Prevent accidental file overwrites.
 * Handle duplicate filenames by generating unique names
 
 ## Future Improvements
