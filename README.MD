@@ -124,7 +124,7 @@ Test-Files/
 
 The application includes basic safeguards to:
 
-* Detect invalid directory paths
+* Detect invalid directory paths.
 * Skip existing directories
 * Prevent accidental file overwrites
 * Handle duplicate filenames by generating unique names
