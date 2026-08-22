@@ -83,7 +83,7 @@ Run the program using:
 python file_organizer.py
 ```
 
-When prompted, enter the path of the directory you want to organize.
+When prompted, enter the path of the directory you want to organize
 
 Example:
 
